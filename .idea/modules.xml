@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidFire.iml" filepath="$PROJECT_DIR$/.idea/AndroidFire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidFire.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidFire.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/AndroidFire.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/AndroidFire.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/common/AndroidFire.library.common.iml" filepath="$PROJECT_DIR$/.idea/modules/library/common/AndroidFire.library.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/irecyclerview/AndroidFire.library.irecyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/library/irecyclerview/AndroidFire.library.irecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/jcvideoplayer/AndroidFire.library.jcvideoplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/library/jcvideoplayer/AndroidFire.library.jcvideoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/oneKeyShareSDK/AndroidFire.library.oneKeyShareSDK.iml" filepath="$PROJECT_DIR$/.idea/modules/library/oneKeyShareSDK/AndroidFire.library.oneKeyShareSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/photoPicker/AndroidFire.library.photoPicker.iml" filepath="$PROJECT_DIR$/.idea/modules/library/photoPicker/AndroidFire.library.photoPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/selectordialog/AndroidFire.library.selectordialog.iml" filepath="$PROJECT_DIR$/.idea/modules/library/selectordialog/AndroidFire.library.selectordialog.iml" />
+    </modules>
+  </component>
+</project>
